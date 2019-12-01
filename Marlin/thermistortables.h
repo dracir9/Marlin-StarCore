@@ -101,6 +101,9 @@
 #if ANY_THERMISTOR_IS(60) // Maker's Tool Works Kapton Bed Thermistor
   #include "thermistortable_60.h"
 #endif
+#if ANY_THERMISTOR_IS(64) // Telesa Lleida 47k Bed Thermistor
+  #include "thermistortable_64.h"
+#endif
 #if ANY_THERMISTOR_IS(66) // DyzeDesign 500°C Thermistor
   #include "thermistortable_66.h"
 #endif

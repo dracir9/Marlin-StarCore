@@ -181,6 +181,8 @@
   #include "pins_GT2560_REV_A.h"      // ATmega1280, ATmega2560                     env:megaatmega1280 env:megaatmega2560
 #elif MB(GT2560_REV_A_PLUS)
   #include "pins_GT2560_REV_A_PLUS.h" // ATmega1280, ATmega2560                     env:megaatmega1280 env:megaatmega2560
+#elif MB(FYSETC_F6_13)
+	#include "pins_FYSETC_F6_13.h"
 
 //
 // ATmega1281, ATmega2561

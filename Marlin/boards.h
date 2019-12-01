@@ -104,6 +104,7 @@
 #define BOARD_SCOOVO_X9H        321   // abee Scoovo X9H
 #define BOARD_GT2560_REV_A      74    // Geeetech GT2560 Rev. A
 #define BOARD_GT2560_REV_A_PLUS 75    // Geeetech GT2560 Rev. A+ (with auto level probe)
+#define BOARD_FYSETC_F6_13      32	  // Fysetc F6 v1.3 Board
 
 //
 // ATmega1281, ATmega2561
